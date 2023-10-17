@@ -1,0 +1,9 @@
+alvaro;451l10;69086-563;Beco Rio Arauana,21
+gabriella;910lo8;69317-231;Rua Barnabé Antônio de Lima,71
+mario;luiprin123;57043-200;Rua Senador Rui Palmeira,1
+marcela;20al21;52150-122;1ª Travessa Canavieira,54
+nando;luda9012;59125-339;Travessa Japira,709
+luiza;901man21;64213-316;Quadra V2,301
+caio;paulista456sao;69911-244;Rua Faris Zaire,193
+cabral;321123;81350-727;Rua Estanislau Kucek,45
+leonardo;321;03422-000;Avenida Guilherme Giorgi,840
